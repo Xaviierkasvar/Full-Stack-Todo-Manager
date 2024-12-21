@@ -3,7 +3,7 @@ import { Platform } from 'react-native';
 
 // Configuración base de la API
 const BASE_URL = Platform.select({
-  android: 'https://cd14-191-156-251-187.ngrok-free.app/api/v1',
+  android: 'http://localhost:3000/api/v1',
   ios: 'https://cd14-191-156-251-187.ngrok-free.app/api/v1',
   default: 'http://localhost:3000/api/v1',
 });

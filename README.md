@@ -105,9 +105,8 @@ DELETE /todos/:id      # Delete todo
 
 ### Frontend Installation
 
-1. Clone the frontend repository
+1. There the frontend repository
 ```bash
-git clone https://github.com/Xaviierkasvar/todo-app-frontend.git
 cd todo-app-frontend
 ```
 
@@ -130,9 +129,8 @@ npm run ios
 
 ### Backend Installation
 
-1. Clone the backend repository
+1. There the backend repository
 ```bash
-git clone https://github.com/Xaviierkasvar/todo-app-backend.git
 cd todo-app-backend
 ```
 
